@@ -1,2 +1,2 @@
 # CRUD-app
-simple CRUD app with React and Node.js 
+simple CRUD blog app with User Login Authentication React and Node.js 
